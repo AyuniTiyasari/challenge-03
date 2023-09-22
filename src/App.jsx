@@ -10,6 +10,6 @@ const App = () => {
         <Route path='/editTask/:id' element={<EditTask />} />
       </Routes>
   )
-}
+  }
 
 export default App;
